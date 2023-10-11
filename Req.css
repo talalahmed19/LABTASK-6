@@ -1,0 +1,16 @@
+.Req{
+    position: absolute;
+    margin-top: -630px;
+    margin-left: 110px;
+    font-weight: bolder;
+    color:rgba(16, 71, 78, 0.597)
+}
+.submit{
+    margin-top: 10px;
+    
+    background-color:rgba(16, 71, 78, 0.597);
+    border: none;
+   width: 150px;
+height: 40px;
+color: white;
+}

@@ -1,0 +1,8 @@
+.background{
+    position: relative;
+    background-image: url("bgd.jpg");
+    background-repeat: no-repeat;
+    width: 1518px;
+    height:90vh; 
+}
+

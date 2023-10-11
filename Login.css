@@ -1,0 +1,14 @@
+.login{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 110px;
+    font-weight: bolder;
+    font-size:x-large;
+    color:rgba(16, 71, 78, 0.597);
+}
+.submit{
+    margin-top: 28px;
+    width: 100px;
+    height:32px;
+    font-size:large;
+}

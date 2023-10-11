@@ -1,0 +1,15 @@
+.contact{
+    position: absolute;
+    margin-top: -620px;
+    margin-left: 50px;
+    width: 800px;
+    font-weight:lighter;
+    font-size:x-large;
+    color:rgba(16, 71, 78, 0.597);
+}
+.send{
+    margin-top: 28px;
+    width: 100px;
+    height:32px;
+    font-size:large;
+}
